@@ -1,6 +1,6 @@
 Name:		texlive-uwa-pcf
 Version:	64491
-Release:	1
+Release:	2
 Summary:	A Participant Consent Form (PCF) for a human research protocol at the University of Western Australia
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwa-pcf
