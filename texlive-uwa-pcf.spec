@@ -3,7 +3,7 @@ Version:	64491
 Release:	2
 Summary:	A Participant Consent Form (PCF) for a human research protocol at the University of Western Australia
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwa-pcf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uwa-pcf
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uwa-pcf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uwa-pcf.doc.r%{version}.tar.xz
